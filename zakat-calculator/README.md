@@ -1,2 +1,2 @@
 # zakat-calculator Assets 
-Tool assets for zakat-calculator managed by Astro Syed Sahab 
+Managed by Astro Syed Sahab 
