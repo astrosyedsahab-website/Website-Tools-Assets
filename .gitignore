@@ -1,32 +1,17 @@
-# ==========================================================
-#          ASTRO SYED SAHAB - DYNAMIC GITIGNORE
-# ==========================================================
-
-# --- [AUTO-DETECT SCRIPTS] ---
-# .bat aur .cmd files ko ignore (Dynamic!)
+# --- [ASTRO-GITIGNORE: SCRIPTS] ---
 *.bat
 *.cmd
 
-# --- [OS LOGS & CACHE - DYNAMIC] ---
-# Kisi bhi OS se aane wala faltu cache
+# --- [OS LOGS & CACHE] ---
 Thumbs.db
 Desktop.ini
 .DS_Store
 *.tmp
 *.temp
 
-# --- [LOG FILES - DYNAMIC] ---
-# Har tarah ki log files ko skip karega
+# --- [LOG & ZIP FILES] ---
 *.log
-
-# --- [COMPRESSED STORAGE] ---
-# Zip files ko ignore rakhega (Option 3 wale assets)
 *.zip
 *.rar
 *.7z
 *.tar.gz
-
-# --- [GIT SAFETY] ---
-# Duplicate git folders aur arrows se bachayega
-.git/
-.gitignore
