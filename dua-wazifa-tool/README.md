@@ -1,1 +1,0 @@
-# dua-wazifa-tool  
