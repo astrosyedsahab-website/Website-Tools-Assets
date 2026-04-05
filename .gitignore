@@ -15,3 +15,7 @@ Desktop.ini
 *.rar
 *.7z
 *.tar.gz
+
+# --- [RELEASE ASSETS HANDLER] ---
+_FOR_RELEASE_/
+**/_FOR_RELEASE_/**
