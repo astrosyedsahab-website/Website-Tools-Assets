@@ -1,2 +1,2 @@
-# zakat-calculator  
-Created automatically by Astro Repo Controller.  
+# zakat-calculator 
+Created automatically by Astro Repo Controller. 
